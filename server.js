@@ -24,5 +24,6 @@ app.listen(config.port, config.host, (e)=> {
     if(e) {
         throw new Error('Internal Server Error');
     }
+    
     logger.info(`${config.name} running on ${config.host}:${config.port}`);
 });
