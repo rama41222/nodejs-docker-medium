@@ -15,4 +15,4 @@ docker-compose run <service> # run a specific service
 ```
 
 ###### Further Reading
-Please check [Dockerizing nodejs app]() on medium.
+Please check [Dockerizing nodejs app](https://itnext.io/lets-dockerize-a-nodejs-express-api-22700b4105e4) on medium.
